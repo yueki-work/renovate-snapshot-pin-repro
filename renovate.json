@@ -6,10 +6,6 @@
     {
       "matchCategories": ["java"],
       "rangeStrategy": "pin"
-    },
-    {
-      "matchCategories": ["java"],
-      "allowedVersions": "!/SNAPSHOT$/"
     }
   ]
 }
