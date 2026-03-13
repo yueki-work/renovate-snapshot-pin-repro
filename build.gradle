@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.springframework:spring-core:7.+'
+    implementation 'org.springframework:spring-core:7.1.0-SNAPSHOT'
 }
